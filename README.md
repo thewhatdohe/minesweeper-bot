@@ -1,4 +1,6 @@
-# minesweeper-bot
+# WIP
+
+### minesweeper-bot
 
 Bot to randomly play minesweeper on https://minesweeperonline.com/#beginner, please note these things:
 
